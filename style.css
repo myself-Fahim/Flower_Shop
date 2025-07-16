@@ -378,3 +378,35 @@ text-underline-position: from-font;
 .Subscribe-btn:hover {
     background: #d63f5f;
 }
+
+/* Footer */
+.footer-item {
+    background: #111010;
+    padding: 128px 240px;
+    text-align: center;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.shop {
+    color: #FFF;
+}
+
+.footer-para {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 32px;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
